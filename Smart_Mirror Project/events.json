@@ -1,0 +1,18 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Project checking",
+      "start_time": "2025-04-07T10:30:00",
+      "end_time": "2025-04-08T11:00:00"
+      
+    },
+    {
+      "id": 2,
+      "title": "Final Presentation",
+      "start_time": "2025-04-09T11:15:00",
+      "end_time": "2025-04-05T12:30:00",
+      "location": "College"
+    }
+  ]
+}
